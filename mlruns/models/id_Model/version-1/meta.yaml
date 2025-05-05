@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746408592857
+current_stage: None
+description: ''
+last_updated_timestamp: 1746408592857
+name: id_Model
+run_id: 05b443b94a24426a94d4bff541231b5a
+run_link: ''
+source: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/05b443b94a24426a94d4bff541231b5a/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/05b443b94a24426a94d4bff541231b5a/artifacts/random_forest
+user_id: null
+version: 1

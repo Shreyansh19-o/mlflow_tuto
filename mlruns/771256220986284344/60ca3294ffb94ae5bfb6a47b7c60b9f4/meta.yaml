@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/60ca3294ffb94ae5bfb6a47b7c60b9f4/artifacts
+end_time: 1746407538842
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 60ca3294ffb94ae5bfb6a47b7c60b9f4
+run_name: chill-roo-167
+run_uuid: 60ca3294ffb94ae5bfb6a47b7c60b9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407538756
+status: 3
+tags: []
+user_id: dk980

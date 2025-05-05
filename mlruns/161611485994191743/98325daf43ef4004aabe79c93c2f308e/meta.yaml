@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/161611485994191743/98325daf43ef4004aabe79c93c2f308e/artifacts
+end_time: 1746283711611
+entry_point_name: ''
+experiment_id: '161611485994191743'
+lifecycle_stage: active
+run_id: 98325daf43ef4004aabe79c93c2f308e
+run_name: capable-auk-717
+run_uuid: 98325daf43ef4004aabe79c93c2f308e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746283709824
+status: 3
+tags: []
+user_id: dk980

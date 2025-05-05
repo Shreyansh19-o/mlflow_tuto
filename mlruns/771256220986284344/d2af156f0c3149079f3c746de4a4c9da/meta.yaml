@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/d2af156f0c3149079f3c746de4a4c9da/artifacts
+end_time: 1746407538976
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: d2af156f0c3149079f3c746de4a4c9da
+run_name: salty-moth-164
+run_uuid: d2af156f0c3149079f3c746de4a4c9da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407538851
+status: 3
+tags: []
+user_id: dk980

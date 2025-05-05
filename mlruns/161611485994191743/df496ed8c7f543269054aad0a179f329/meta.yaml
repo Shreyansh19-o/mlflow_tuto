@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/161611485994191743/df496ed8c7f543269054aad0a179f329/artifacts
+end_time: 1746324725217
+entry_point_name: ''
+experiment_id: '161611485994191743'
+lifecycle_stage: active
+run_id: df496ed8c7f543269054aad0a179f329
+run_name: rumbling-bee-50
+run_uuid: df496ed8c7f543269054aad0a179f329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746324724533
+status: 3
+tags: []
+user_id: dk980

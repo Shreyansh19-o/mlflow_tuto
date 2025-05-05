@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/603baa7f186847daaeb4598ddb6a450d/artifacts
+end_time: 1746407538555
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 603baa7f186847daaeb4598ddb6a450d
+run_name: amusing-dog-603
+run_uuid: 603baa7f186847daaeb4598ddb6a450d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407538463
+status: 3
+tags: []
+user_id: dk980

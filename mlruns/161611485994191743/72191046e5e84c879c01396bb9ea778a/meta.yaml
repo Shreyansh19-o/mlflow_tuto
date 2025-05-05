@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/161611485994191743/72191046e5e84c879c01396bb9ea778a/artifacts
+end_time: 1746324812332
+entry_point_name: ''
+experiment_id: '161611485994191743'
+lifecycle_stage: active
+run_id: 72191046e5e84c879c01396bb9ea778a
+run_name: magnificent-slug-673
+run_uuid: 72191046e5e84c879c01396bb9ea778a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746324811669
+status: 3
+tags: []
+user_id: dk980

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/f421050b4e754e85b26180f6f1cf9955/artifacts
+end_time: 1746408853322
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: f421050b4e754e85b26180f6f1cf9955
+run_name: receptive-bear-204
+run_uuid: f421050b4e754e85b26180f6f1cf9955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746408853222
+status: 3
+tags: []
+user_id: dk980

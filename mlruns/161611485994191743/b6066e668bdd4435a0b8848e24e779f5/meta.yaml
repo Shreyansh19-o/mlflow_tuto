@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/161611485994191743/b6066e668bdd4435a0b8848e24e779f5/artifacts
+end_time: 1746324623757
+entry_point_name: ''
+experiment_id: '161611485994191743'
+lifecycle_stage: active
+run_id: b6066e668bdd4435a0b8848e24e779f5
+run_name: placid-hog-102
+run_uuid: b6066e668bdd4435a0b8848e24e779f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746324622178
+status: 3
+tags: []
+user_id: dk980

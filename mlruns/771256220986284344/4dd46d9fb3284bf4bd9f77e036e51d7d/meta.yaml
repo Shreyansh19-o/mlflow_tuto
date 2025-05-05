@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/4dd46d9fb3284bf4bd9f77e036e51d7d/artifacts
+end_time: 1746408852893
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 4dd46d9fb3284bf4bd9f77e036e51d7d
+run_name: amazing-slug-353
+run_uuid: 4dd46d9fb3284bf4bd9f77e036e51d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746408852803
+status: 3
+tags: []
+user_id: dk980

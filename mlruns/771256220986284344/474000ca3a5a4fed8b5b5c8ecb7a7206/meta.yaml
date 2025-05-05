@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/474000ca3a5a4fed8b5b5c8ecb7a7206/artifacts
+end_time: 1746408853642
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 474000ca3a5a4fed8b5b5c8ecb7a7206
+run_name: hilarious-shad-116
+run_uuid: 474000ca3a5a4fed8b5b5c8ecb7a7206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746408853553
+status: 3
+tags: []
+user_id: dk980

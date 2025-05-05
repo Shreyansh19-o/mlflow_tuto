@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/bcaad983b2af4c67a69ff749fbf7155d/artifacts
+end_time: 1746407538653
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: bcaad983b2af4c67a69ff749fbf7155d
+run_name: inquisitive-eel-948
+run_uuid: bcaad983b2af4c67a69ff749fbf7155d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407538565
+status: 3
+tags: []
+user_id: dk980

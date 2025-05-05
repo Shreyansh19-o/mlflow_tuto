@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/14202c762f924938b025fad9a1b136e1/artifacts
+end_time: 1746407539262
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 14202c762f924938b025fad9a1b136e1
+run_name: hilarious-snake-963
+run_uuid: 14202c762f924938b025fad9a1b136e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407539180
+status: 3
+tags: []
+user_id: dk980

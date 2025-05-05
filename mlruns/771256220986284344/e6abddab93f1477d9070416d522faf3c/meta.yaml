@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/e6abddab93f1477d9070416d522faf3c/artifacts
+end_time: 1746407539363
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: e6abddab93f1477d9070416d522faf3c
+run_name: trusting-fawn-604
+run_uuid: e6abddab93f1477d9070416d522faf3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746407539271
+status: 3
+tags: []
+user_id: dk980

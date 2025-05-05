@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/9df47eac79f248e7a01dd610bab3bddb/artifacts
+end_time: 1746408853430
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: 9df47eac79f248e7a01dd610bab3bddb
+run_name: nervous-gull-614
+run_uuid: 9df47eac79f248e7a01dd610bab3bddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746408853334
+status: 3
+tags: []
+user_id: dk980

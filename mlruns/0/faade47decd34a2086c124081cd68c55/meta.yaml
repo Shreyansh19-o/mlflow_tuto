@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/0/faade47decd34a2086c124081cd68c55/artifacts
+end_time: 1746282243339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faade47decd34a2086c124081cd68c55
+run_name: angry-sponge-616
+run_uuid: faade47decd34a2086c124081cd68c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746282243182
+status: 3
+tags: []
+user_id: dk980

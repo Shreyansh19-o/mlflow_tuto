@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dk980/OneDrive/Desktop/MLOPS/Ml%20flow/mlflow_tuto/mlruns/771256220986284344/ed3dabe022aa43329af89fdf88575551/artifacts
+end_time: 1746408852689
+entry_point_name: ''
+experiment_id: '771256220986284344'
+lifecycle_stage: active
+run_id: ed3dabe022aa43329af89fdf88575551
+run_name: debonair-perch-793
+run_uuid: ed3dabe022aa43329af89fdf88575551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746408852596
+status: 3
+tags: []
+user_id: dk980
